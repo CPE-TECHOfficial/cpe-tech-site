@@ -1167,7 +1167,7 @@ export default function App() {
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent flex flex-col justify-end p-8 md:p-16">
             <h2 className="text-4xl md:text-6xl font-bold text-white mb-4">
-              تقنية محترفة
+              أهلاً بكم في CPE-TECH
             </h2>
             <p className="text-xl text-slate-300 mb-8 max-w-2xl">
               أفضل خدمات الصيانة للأجهزة الذكية والحواسيب بأيدي خبراء
@@ -1381,7 +1381,7 @@ export default function App() {
           </div>
           <div className="border-t border-white/5 mt-12 pt-8 text-center">
             <p className="text-slate-500 text-sm">
-              © 2025 CPE-TECH. جميع الحقوق محفوظة.
+              © 2026 CPE-TECH. جميع الحقوق محفوظة.
             </p>
           </div>
         </div>
