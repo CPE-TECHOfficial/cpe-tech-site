@@ -1081,7 +1081,7 @@ export default function App() {
           <div className="flex gap-2 items-center">
              {/* زر يوتيوب الجديد */}
              <a
-              href="https://www.youtube.com/@CPE-TECH"
+              href="https://www.youtube.com/@CPETechOfficial"
               target="_blank"
               rel="noreferrer"
               className="hidden md:flex items-center gap-2 bg-[#FF0000]/10 text-white px-4 py-2 rounded-lg hover:bg-[#FF0000]/20 border border-[#FF0000]/20 transition-all"
