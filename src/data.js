@@ -1,12 +1,12 @@
 // src/data.js
 
-// 1. معلومات الاتصال (تتغير في كل الموقع تلقائياً)
+// معلومات الاتصال (تتغير في كل الموقع تلقائياً)
 export const CONTACT_INFO = {
-  phone: "0770281922",
-  phoneDisplay: "0770 281 9222",
-  whatsappLink: "https://wa.me/213770281922", // رقمك الدولي بدون +
+  phone: "0770281922",  // ضع رقم هاتفك هنا
+  phoneDisplay: "0770281922", // تنسيق الرقم للعرض
+  whatsappLink: "https://wa.me/213770281922", // استبدل x برقمك بدون الصفر الأول
   telegramLink: "https://t.me/+213770281922",
-  email: "support@cpe-tech.com",
+  email: "admin@fofotechno.com",
   address: "الجزائر - ولاية بسكرة - دائرة أورلال"
 };
 
