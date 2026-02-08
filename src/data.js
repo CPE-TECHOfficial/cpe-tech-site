@@ -4,10 +4,10 @@
 export const CONTACT_INFO = {
   phone: "0770281922",
   phoneDisplay: "0770 281 9222",
-  whatsappLink: "https://wa.me/9640770281922", // رقمك الدولي بدون +
-  telegramLink: "https://t.me/+9640770281922",
+  whatsappLink: "https://wa.me/213770281922", // رقمك الدولي بدون +
+  telegramLink: "https://t.me/+213770281922",
   email: "support@cpe-tech.com",
-  address: "العراق - واسط - الكوت - شارع المحافظة"
+  address: "الجزائر - ولاية بسكرة - دائرة أورلال"
 };
 
 // 2. إعدادات الموقع الرئيسية
