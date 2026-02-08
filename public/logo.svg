@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- خلفية دائرية زرقاء متدرجة -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="240" fill="url(#grad1)" />
+  
+  <!-- رمز الدائرة الكهربائية والتقنية -->
+  <path d="M256 120c-75 0-136 61-136 136 0 35 13 67 36 91l25-25c-15-17-25-40-25-66 0-55 45-100 100-100s100 45 100 100c0 26-10 49-25 66l25 25c23-24 36-56 36-91 0-75-61-136-136-136z" fill="#ffffff"/>
+  <circle cx="256" cy="256" r="40" fill="#ffffff"/>
+  <rect x="236" y="280" width="40" height="100" rx="10" fill="#ffffff"/>
+</svg>
