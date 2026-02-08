@@ -367,7 +367,7 @@ export default function App() {
             <div><h3 className="text-lg font-bold text-white mb-6 border-b border-white/10 pb-2 w-fit">اتصل بنا</h3><ul className="space-y-4"><li className="flex items-start gap-3 text-slate-400"><MapPin className="text-cyan-400 flex-shrink-0" size={20} /><span>العراق - واسط - الكوت<br/>شارع المحافظة</span></li><li className="flex items-center gap-3 text-slate-400"><Phone className="text-cyan-400 flex-shrink-0" size={20} /><span dir="ltr" className="font-mono">0770 281 9222</span></li></ul></div>
             <div className="w-full"><h3 className="text-lg font-bold text-white mb-6 border-b border-white/10 pb-2 w-fit">موقعنا على الخريطة</h3><LocationMap /></div>
           </div>
-          <div className="border-t border-white/10 pt-8 text-center"><p className="text-slate-500 text-sm">© {new Date().getFullYear()} CPE-TECH. جميع الحقوق محفوظة.</p></div>
+          <div className="border-t border-white/10 pt-8 text-center"><p className="text-slate-500 text-sm">© {new Date().getFullYear()} CPE-TECH 2026. جميع الحقوق محفوظة.</p></div>
         </div>
       </footer>
 
